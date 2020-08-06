@@ -29,7 +29,9 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emilsultanov&show_icons=true&hide_border=true" />
+<img align="left" alt="emilsultanov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emilsultanov&show_icons=true&hide_border=true" />
+
+<img align="left" alt="emilsultanov's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilsultanov&hide=php" />
 
 [linkedin]: https://www.linkedin.com/in/emil-sultanov-348586172/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
